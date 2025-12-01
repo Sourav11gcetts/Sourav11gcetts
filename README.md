@@ -12,7 +12,7 @@
 
 ---
 
-🚀 I build **scalable, high-performance backend systems** using Java & Spring Boot with a strong focus on clean code and system design.
+🚀 I build **scalable, high-performance backend systems** using **Java & Spring Boot** with a strong focus on clean code and system design.
 
 ---
 
