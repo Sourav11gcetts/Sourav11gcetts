@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sourav  
 
-🚀 **Java Backend Developer | Spring Boot | Microservices |**  
+🚀 **Java Backend Developer | Spring Boot | Microservices**  
 I build scalable, high-performance backend systems with clean, maintainable code.
 
 ---
