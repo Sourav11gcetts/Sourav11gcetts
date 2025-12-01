@@ -42,7 +42,7 @@
 
 ## 🤝 Connect With Me
 <p align="center">
-  <a href="[https://www.linkedin.com/in/sourav-kamilya-94871a15b/]">
+  <a href="https://www.linkedin.com/in/sourav-kamilya-94871a15b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:souravkamilya555@gmail.com">
